@@ -1,0 +1,4 @@
+dbhost = "10.0.10.114"
+dbuser = "dbuser
+dbpassword = "password"
+dbname = "OCI-Inventory"
